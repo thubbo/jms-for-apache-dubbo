@@ -1,2 +1,1 @@
-# incubator-dubbo-rpc-jms
-incubator-dubbo-rpc-jms
+# JMS for Apache Dubbo
